@@ -49,11 +49,9 @@ export default function Weather(props) {
               />
             </div>
             <div className="col-3">
-              <input
-                type="sumbit"
-                value="Search"
-                className="btn btn-primary w-100"
-              />
+              <button type="sumbit" className="btn btn-primary w-100">
+                Search
+              </button>
             </div>
           </div>
         </form>
