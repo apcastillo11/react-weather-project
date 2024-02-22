@@ -1,4 +1,5 @@
 .Weather {
+  background-color: black;
   border: 1px solid #dadde1;
   border-radius: 4px;
   color: rgb(135, 135, 135);
@@ -34,14 +35,14 @@
 
 .Weather .temperature {
   font-weight: bold;
-  color: rgb(33, 33, 33);
+  color: white;
   font-size: 64px;
   font-weight: 400;
   line-height: 64px;
 }
 
 .Weather .unit {
-  color: rgb(33, 33, 33);
+  color: white;
   font-size: 16px;
   font-weight: 400;
   line-height: 1;
