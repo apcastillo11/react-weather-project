@@ -1,7 +1,3 @@
 .WeatherInfo .float-left {
   float: left;
 }
-
-.WeatherInfo .temperature {
-  color: white;
-}
